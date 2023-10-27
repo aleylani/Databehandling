@@ -49,9 +49,3 @@
 - [Working with missing data](https://pandas.pydata.org/pandas-docs/stable/user_guide/missing_data.html)
 
 - [Seaborn barplot](https://seaborn.pydata.org/generated/seaborn.barplot.html)
-
-
-
-## Exercises :running:
-
-- [Basic syntax exercises](https://github.com/kokchun/Databehandling-AI22/blob/main/Exercises/00_pandas_basic_syntax.ipynb)
