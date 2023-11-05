@@ -5,11 +5,11 @@
 ## Setup :wrench:
 
 1. Create a new folder for this course 
-2. Create a new pipenvironment with 
+2. Create a new conda environment with 
    ```python 
-   pipenv shell
+   conda create --name databehandling
    ```  
-3. Install **numpy**, **pandas**, **matplotlib**, **seaborn**, **openpyxl** and **ipykernel** in this pipenv: 
+3. Install **numpy**, **pandas**, **matplotlib**, **seaborn**, **openpyxl** and **ipykernel** in that environment: 
    ```python 
    conda install numpy 
    conda install pandas
